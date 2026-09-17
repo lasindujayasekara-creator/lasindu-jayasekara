@@ -1,4 +1,4 @@
-# Hi There 👋
+
 <h1 align="center">Hi 👋, I'm lasindu jayasekara</h1>
 <h3 align="center">HNDT–IT Student | Aspiring Software Developer | Web Development | PHP & MySQL | Open to IT Internships im from SRI LANKA</h3>
 
